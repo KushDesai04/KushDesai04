@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kush Desai</h1>
 <h3 align="center">A passionate software engineering student at the University of Canterbury</h3>
 
-- 🌱 I’m currently learning **react, web development, programming embedded systems.**
+- 🌱 I’m currently learning **react, web development and embedded systems.**
 
 - 📫 How to reach me **kush.desai@yahoo.co.nz**
 
